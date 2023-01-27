@@ -1,0 +1,33 @@
+body {
+  background-color: pink;
+}
+h1 {
+  text-align: right;
+  font-size: 50px;
+}
+h2 {
+  text-align: center;
+  font-size: 15px;
+}
+ul {
+  list-style: none;
+}
+h3 {
+  text-align: center;
+  font-size: 15px;
+}
+form {
+  text-align: center;
+}
+button {
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 600px;
+}
